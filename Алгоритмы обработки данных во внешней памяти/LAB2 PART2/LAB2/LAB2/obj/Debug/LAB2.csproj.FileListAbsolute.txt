@@ -1,0 +1,26 @@
+c:\users\student\documents\visual studio 2017\Projects\LAB2\LAB2\bin\Debug\LAB2.exe.config
+c:\users\student\documents\visual studio 2017\Projects\LAB2\LAB2\bin\Debug\LAB2.exe
+c:\users\student\documents\visual studio 2017\Projects\LAB2\LAB2\bin\Debug\LAB2.pdb
+c:\users\student\documents\visual studio 2017\Projects\LAB2\LAB2\obj\Debug\LAB2.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2017\Projects\LAB2\LAB2\obj\Debug\LAB2.exe
+c:\users\student\documents\visual studio 2017\Projects\LAB2\LAB2\obj\Debug\LAB2.pdb
+E:\MIRVODA\part2\LAB2\LAB2\bin\Debug\LAB2.exe.config
+E:\MIRVODA\part2\LAB2\LAB2\bin\Debug\LAB2.exe
+E:\MIRVODA\part2\LAB2\LAB2\bin\Debug\LAB2.pdb
+E:\MIRVODA\part2\LAB2\LAB2\obj\Debug\LAB2.csprojResolveAssemblyReference.cache
+E:\MIRVODA\part2\LAB2\LAB2\obj\Debug\LAB2.exe
+E:\MIRVODA\part2\LAB2\LAB2\obj\Debug\LAB2.pdb
+C:\Users\Qovaxx\Desktop\MIRVODA\part2\LAB2\LAB2\bin\Debug\LAB2.exe.config
+C:\Users\Qovaxx\Desktop\MIRVODA\part2\LAB2\LAB2\bin\Debug\LAB2.exe
+C:\Users\Qovaxx\Desktop\MIRVODA\part2\LAB2\LAB2\bin\Debug\LAB2.pdb
+C:\Users\Qovaxx\Desktop\MIRVODA\part2\LAB2\LAB2\obj\Debug\LAB2.csprojResolveAssemblyReference.cache
+C:\Users\Qovaxx\Desktop\MIRVODA\part2\LAB2\LAB2\obj\Debug\LAB2.csproj.CoreCompileInputs.cache
+C:\Users\Qovaxx\Desktop\MIRVODA\part2\LAB2\LAB2\obj\Debug\LAB2.exe
+C:\Users\Qovaxx\Desktop\MIRVODA\part2\LAB2\LAB2\obj\Debug\LAB2.pdb
+D:\Repositories\Studies\EXTERNAL_MEMORY\LAB2 PART2\LAB2\LAB2\bin\Debug\LAB2.exe.config
+D:\Repositories\Studies\EXTERNAL_MEMORY\LAB2 PART2\LAB2\LAB2\bin\Debug\LAB2.exe
+D:\Repositories\Studies\EXTERNAL_MEMORY\LAB2 PART2\LAB2\LAB2\bin\Debug\LAB2.pdb
+D:\Repositories\Studies\EXTERNAL_MEMORY\LAB2 PART2\LAB2\LAB2\obj\Debug\LAB2.csprojResolveAssemblyReference.cache
+D:\Repositories\Studies\EXTERNAL_MEMORY\LAB2 PART2\LAB2\LAB2\obj\Debug\LAB2.csproj.CoreCompileInputs.cache
+D:\Repositories\Studies\EXTERNAL_MEMORY\LAB2 PART2\LAB2\LAB2\obj\Debug\LAB2.exe
+D:\Repositories\Studies\EXTERNAL_MEMORY\LAB2 PART2\LAB2\LAB2\obj\Debug\LAB2.pdb
