@@ -33,3 +33,15 @@ E:\LAB1\Test\Test\bin\Debug\Newtonsoft.Json.xml
 E:\LAB1\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
 E:\LAB1\Test\Test\obj\Debug\Test.exe
 E:\LAB1\Test\Test\obj\Debug\Test.pdb
+D:\Загрузки\Studies-master\Алгоритмы обработки данных во внешней памяти\LAB1\Test\Test\bin\Debug\Test.exe.config
+D:\Загрузки\Studies-master\Алгоритмы обработки данных во внешней памяти\LAB1\Test\Test\bin\Debug\Test.exe
+D:\Загрузки\Studies-master\Алгоритмы обработки данных во внешней памяти\LAB1\Test\Test\bin\Debug\Test.pdb
+D:\Загрузки\Studies-master\Алгоритмы обработки данных во внешней памяти\LAB1\Test\Test\bin\Debug\HtmlAgilityPack.dll
+D:\Загрузки\Studies-master\Алгоритмы обработки данных во внешней памяти\LAB1\Test\Test\bin\Debug\Newtonsoft.Json.dll
+D:\Загрузки\Studies-master\Алгоритмы обработки данных во внешней памяти\LAB1\Test\Test\bin\Debug\HtmlAgilityPack.pdb
+D:\Загрузки\Studies-master\Алгоритмы обработки данных во внешней памяти\LAB1\Test\Test\bin\Debug\HtmlAgilityPack.xml
+D:\Загрузки\Studies-master\Алгоритмы обработки данных во внешней памяти\LAB1\Test\Test\bin\Debug\Newtonsoft.Json.xml
+D:\Загрузки\Studies-master\Алгоритмы обработки данных во внешней памяти\LAB1\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\Загрузки\Studies-master\Алгоритмы обработки данных во внешней памяти\LAB1\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\Загрузки\Studies-master\Алгоритмы обработки данных во внешней памяти\LAB1\Test\Test\obj\Debug\Test.exe
+D:\Загрузки\Studies-master\Алгоритмы обработки данных во внешней памяти\LAB1\Test\Test\obj\Debug\Test.pdb
