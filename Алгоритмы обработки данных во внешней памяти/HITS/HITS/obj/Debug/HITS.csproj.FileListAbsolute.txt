@@ -1,0 +1,7 @@
+C:\Users\Qovaxx\source\repos\HITS\HITS\bin\Debug\HITS.exe.config
+C:\Users\Qovaxx\source\repos\HITS\HITS\bin\Debug\HITS.exe
+C:\Users\Qovaxx\source\repos\HITS\HITS\bin\Debug\HITS.pdb
+C:\Users\Qovaxx\source\repos\HITS\HITS\obj\Debug\HITS.csprojResolveAssemblyReference.cache
+C:\Users\Qovaxx\source\repos\HITS\HITS\obj\Debug\HITS.csproj.CoreCompileInputs.cache
+C:\Users\Qovaxx\source\repos\HITS\HITS\obj\Debug\HITS.exe
+C:\Users\Qovaxx\source\repos\HITS\HITS\obj\Debug\HITS.pdb
